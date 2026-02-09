@@ -78,8 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dimlpofz0/video/upload/v1770614373/Nit_Khair_Manga__Slowed_Reverb__Full_Song_____razaxslowed__slowedandreverb___pakistanisong__indiansongs__punjabisong__foryou__fullsong__fyp%E3%82%B7__1_m7ce13.mp3
-            ", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dimlpofz0/video/upload/v1770614373/Nit_Khair_Manga__Slowed_Reverb__Full_Song_____razaxslowed__slowedandreverb___pakistanisong__indiansongs__punjabisong__foryou__fullsong__fyp%E3%82%B7__1_m7ce13.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
